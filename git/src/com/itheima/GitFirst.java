@@ -7,4 +7,8 @@ public class GitFirst {
         System.out.println("hello git");
         System.out.println("hello git");
     }
+    public void test(){
+        System.out.println("ddddddddddd");
+        System.out.println("ddddddddddd");
+    }
 }
